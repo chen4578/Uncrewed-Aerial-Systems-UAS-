@@ -8,4 +8,4 @@ OpenCV offers useful tools for correcting the distortion effects resulting from 
 
 On the left is the original image and on the right is the undistorted image.
 
-![Undistorted Image]([Uncrewed-Aerial-Systems-UAS-/Camera Calibration/calibresult.png](https://github.com/chen4578/Uncrewed-Aerial-Systems-UAS-/blob/main/Camera%20Calibration/calibresult.png?raw=true))
+![Undistorted Image](https://github.com/chen4578/Uncrewed-Aerial-Systems-UAS-/blob/2ddca25a5dc11915cf4c2729fe950cea08037c37/Camera%20Calibration/calibresult.png)

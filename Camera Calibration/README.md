@@ -6,6 +6,9 @@ OpenCV offers useful tools for correcting the distortion effects resulting from 
 
 ## Example Result
 
-On the left is the original image and on the right is the undistorted image.
+On the left is the original image, and on the right is the undistorted image.
 
-![Undistorted Image](https://github.com/chen4578/Uncrewed-Aerial-Systems-UAS-/blob/2ddca25a5dc11915cf4c2729fe950cea08037c37/Camera%20Calibration/calibresult.png)
+<p align="center">
+  <img src="https://github.com/chen4578/Uncrewed-Aerial-Systems-UAS-/blob/2ddca25a5dc11915cf4c2729fe950cea08037c37/Camera%20Calibration/calibresult.png" width="40%">
+  <img src="https://github.com/chen4578/Uncrewed-Aerial-Systems-UAS-/blob/5dd0544930fe5f894f326dfdddd9abfed1f0fc0c/Camera%20Calibration/undistorted.png" width="47%">
+</p>
